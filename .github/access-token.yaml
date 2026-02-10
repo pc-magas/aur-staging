@@ -1,0 +1,7 @@
+origin: pc-magas/aur-staging
+statements:
+  - subjects:
+      - repo:pc-magas/mkdotenv:** # all refs, workflows, environments
+    permissions:
+      contents: write
+      pull-requests: write

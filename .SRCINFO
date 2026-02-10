@@ -1,0 +1,12 @@
+Running post-install command: makepkg --printsrcinfo
+pkgbase = mkdotenv
+	pkgdesc = Populate .env files from secrets.
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/pc-magas/mkdotenv
+	arch = x86_64
+	license = GPL-3
+	source = mkdotenv-1.0.0.tar.gz::https://github.com/pc-magas/mkdotenv/releases/download/v1.0.0-pre/mkdotenv-1.0.0.tar.gz
+	sha256sums = 51ca7d96d61ec899803736082287b6fa3f1e64582b7c3fb7dc2fc7f2a2d31712
+
+pkgname = mkdotenv

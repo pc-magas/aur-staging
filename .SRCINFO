@@ -1,4 +1,3 @@
-Running post-install command: makepkg --printsrcinfo
 pkgbase = mkdotenv
 	pkgdesc = Populate .env files from secrets.
 	pkgver = 1.0.0
